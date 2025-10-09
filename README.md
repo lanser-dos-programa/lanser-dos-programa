@@ -49,7 +49,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Informações de contato</b>
       </samp>
   </summary>
   
