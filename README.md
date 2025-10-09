@@ -22,7 +22,8 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lanser-dos-programa&theme=dracula" style="filter: hue-rotate(250deg) saturate(1.5);"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lanser-dos-programa&theme=omni"/>
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
