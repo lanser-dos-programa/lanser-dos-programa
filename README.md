@@ -25,6 +25,9 @@
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lanser-dos-programa&theme=transparent"/>
 
 </div>
+<div align="center" style="text-align: center;">
+    <h3 style="font-size: 300px;">FrontEnd</h3>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
