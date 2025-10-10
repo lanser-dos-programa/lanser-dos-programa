@@ -48,6 +48,15 @@
 </div>
 
 <br>
+<div align="center"style="text-align: center;">
+    <b>Banco de Dados</b>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+</div>
 <br>
 
 <details align="center">  
