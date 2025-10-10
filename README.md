@@ -38,6 +38,15 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
+<div align="center"style="text-align: center;">
+    <b>BackEnd</b>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+
 <br>
 <br>
 
