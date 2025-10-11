@@ -82,9 +82,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luizlanser12@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/__luiz_daniel__/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/)
+  [![Gmail](https://img.shields.io/badge/Gmail-0066FF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luizlanser12@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-0066FF?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/__luiz_daniel__/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/)
   
 <br>
 
