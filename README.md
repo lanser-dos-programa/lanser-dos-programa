@@ -38,7 +38,7 @@
 
 <br>
 <div align="center"style="text-align: center;">
-    <b>Banco de Dados</b>
+    <b>Database</b>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -51,7 +51,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>Informações de contato</b>
+        <b>contact information</b>
       </samp>
   </summary>
   
