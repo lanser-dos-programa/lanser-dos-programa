@@ -7,7 +7,7 @@
   <b>`𝕷𝖆𝖓𝖘𝖊𝖗`</b>
   <samp>
       <br>
-      Fala pessoal! Eu sou <b>Luiz Daniel Lanser Nunes</b>
+      hey guys! I'm <b>Luiz Daniel Lanser Nunes</b>
   </samp>
 </div>
 
